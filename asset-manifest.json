@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-speed-typing-game/static/css/main.37f67fd6.chunk.css",
+    "main.js": "/react-speed-typing-game/static/js/main.47aaf79e.chunk.js",
+    "main.js.map": "/react-speed-typing-game/static/js/main.47aaf79e.chunk.js.map",
+    "runtime-main.js": "/react-speed-typing-game/static/js/runtime-main.ca52b0b1.js",
+    "runtime-main.js.map": "/react-speed-typing-game/static/js/runtime-main.ca52b0b1.js.map",
+    "static/js/2.9b973634.chunk.js": "/react-speed-typing-game/static/js/2.9b973634.chunk.js",
+    "static/js/2.9b973634.chunk.js.map": "/react-speed-typing-game/static/js/2.9b973634.chunk.js.map",
+    "index.html": "/react-speed-typing-game/index.html",
+    "precache-manifest.42116ac00f2fc1ac5d3ac48c70f7a2e8.js": "/react-speed-typing-game/precache-manifest.42116ac00f2fc1ac5d3ac48c70f7a2e8.js",
+    "service-worker.js": "/react-speed-typing-game/service-worker.js",
+    "static/css/main.37f67fd6.chunk.css.map": "/react-speed-typing-game/static/css/main.37f67fd6.chunk.css.map",
+    "static/js/2.9b973634.chunk.js.LICENSE.txt": "/react-speed-typing-game/static/js/2.9b973634.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca52b0b1.js",
+    "static/js/2.9b973634.chunk.js",
+    "static/css/main.37f67fd6.chunk.css",
+    "static/js/main.47aaf79e.chunk.js"
+  ]
+}
